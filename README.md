@@ -1,0 +1,1 @@
+Пример локального брокера сообщений для [статьи](https://habr.com/ru/companies/first/articles/779776/).
